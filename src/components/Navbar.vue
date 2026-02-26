@@ -2,7 +2,7 @@
   <nav class="nav">
     <RouterLink class="navbtn" to="/">Home</RouterLink>
     <RouterLink class="navbtn" to="/about">About</RouterLink>
-    <RouterLink class="navbtn" to="/books">Books</RouterLink>
+    <RouterLink class="navbtn" to="/books">What is Ham Radio </RouterLink>
   </nav>
 </template>
 
